@@ -15,9 +15,9 @@ Por lo general el archivo .gitignore se debe crear al inicio de cada proyecto, l
     * Para ignorar todos los archivos con una determinada extencion escribimos **\*."extencion"** por ejemplo: **\*.log** que vá a ignorar todos los archivos con la extencion .log.
     * Para ignorar carpetas con todo su contenido escribimos **"nombre_de_la_carpeta"/**, por ejemplo **node_modules/**, en este ejemplo se vá a ignorar la carpeta node_modules y todo su contenido.
 3. Por ultimo se guardan los cambios y realiza un commit para guardar los cambios.
-
-###### Ejercicio 2 apartado 3c
+***
+###### Ejercicio 2 apartado 3c:
 Podemos observar la carpeta .vscode que es propia del editor y que no es necesario subirla, así que se debe inluirla dentro del archivo .gitignore.
-
-    
-
+***
+###### Ejercicio 2 apartado 3g:
+Los resultados del apartado 2 y 3 son iguales ya que en ambos apartados se hacen referencia a la misma direccion de memoria.Por otro lado en el apartado 4 se obtiene la direccion de memoria del puntero y es distinta de la direccion de memoria que almacena el puntero, ya que son dos direcciones de memoria distintos.
